@@ -1,44 +1,45 @@
 # College-Management-System-using-java
-Building a College Management System using Java and MySQL involves creating the application's backend in Java and using MySQL as the database to store and retrieve data.
+Designed a College Management System using Java and MySQL involves creating the application's backend in Java and using MySQL as the database to store and retrieve data.
+
 #**STEPS**
-1. Set Up MySQL Database:
+**1. Set Up MySQL Database:**
 
 Install MySQL on your machine or use a hosted MySQL service.
 Create a database named college_management_system.
 Create tables for students, faculty, courses, attendance, and grades.
 
 
-2. Java Database Connectivity (JDBC):
+**2. Java Database Connectivity (JDBC):**
 
 Include the MySQL JDBC driver in your project. You can download it from the MySQL website or use a build tool like Maven or Gradle to manage dependencies.
 Create a Java class for database connection handling. Use the JDBC API to establish connections, execute queries, and handle results.
 
-3. Create Java Classes:
+**3. Create Java Classes:**
 
 Create Java classes for Student, Faculty, Course, Attendance, and Grades.
 Define class attributes, constructors, getter and setter methods.
 
-4. UI Development:
+**4. UI Development:**
 
 Use JavaFX or Swing for creating the user interface.
 Design screens for adding and updating student and faculty details, managing courses, recording attendance, entering grades, etc.
 
-5. Implement Business Logic:
+**5. Implement Business Logic:**
 
 Implement logic for CRUD operations (Create, Read, Update, Delete) for students, faculty, courses, attendance, and grades.
 Implement methods to enroll students in courses, calculate attendance percentages, calculate grades, etc.
 
-6. User Authentication and Authorization:
+**6. User Authentication and Authorization:**
 
 Implement a simple login system for users (admin, teachers, students).
 Create roles (admin, teacher, student) and restrict access to different sections based on roles.
 
-7. Error Handling and Validation:
+**7. Error Handling and Validation:**
 
 Implement validation checks to ensure data integrity (e.g., unique student IDs, valid email addresses).
 Handle database errors gracefully and provide meaningful error messages.
 
-8. Documentation:
+**8. Documentation:**
 
 Document the code using comments to explain complex sections.
 Create user manuals or guides to help users navigate and use the system.
@@ -74,4 +75,4 @@ Create user manuals or guides to help users navigate and use the system.
 
 
 
-#![Screenshot 2023-08-11 195852](https://github.com/Rushabh8087/College-Management-System-using-java/assets/115590012/e497593a-e2d0-42ed-ae17-54ffe9d730e6)
+
