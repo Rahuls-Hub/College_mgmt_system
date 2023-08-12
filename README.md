@@ -45,7 +45,7 @@ Create user manuals or guides to help users navigate and use the system.
 
 #OUTPUT
 
-# ![home page ](https://github.com/Rushabh8087/College-Management-System-using-java/assets/115590012/2fc3dc66-e153-4683-89db-dd9e4a21beab)
+# rghohutgoih![home page ](https://github.com/Rushabh8087/College-Management-System-using-java/assets/115590012/2fc3dc66-e153-4683-89db-dd9e4a21beab)
 
 #![login page admin ](https://github.com/Rushabh8087/College-Management-System-using-java/assets/115590012/1f90cbe2-d587-4cdc-b03f-bfb517db5a2b)
 
